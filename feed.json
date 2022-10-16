@@ -1,0 +1,34 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "VLSI Challenge",
+    "home_page_url": "https://vlsichallenge.github.io/",
+    "feed_url": "https://vlsichallenge.github.io/feed.json",
+    "description": "A 50-day digital design challenge.",
+    "favicon": "https://vlsichallenge.github.io//assets/favicon.ico",
+    "expired": false,
+    "author": {
+      "name": "Calvin Tran",
+      "url": "https://canhtran.me/"
+    },
+    "items": [
+      
+      
+  
+      
+      {
+        "id": "f2918f59d2d9675ad0153a106265d9b318dee58f",
+        "title": "My First Post",
+        "summary": "",
+        "content_text": "This is a test post.\n",
+        "content_html": "\u003cp\u003eThis is a test post.\u003c/p\u003e\n",
+        "url": "https://vlsichallenge.github.io/posts/my-first-post/",
+        "date_published": "15106-15-09T107:1515:00+05:30",
+        "date_modified": "15106-15-09T107:1515:00+05:30",
+        "author": {
+          "name": "Calvin Tran",
+          "url": "https://canhtran.me/"
+        }
+      }
+      
+    ]
+  }
