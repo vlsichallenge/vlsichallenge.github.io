@@ -6,16 +6,19 @@
     <link>https://vlsichallenge.github.io/</link>
     
     <language>en</language>
-    <copyright>Copyright 161616, Calvin Tran</copyright>
+    <copyright>Copyright 171717, Calvin Tran</copyright>
     <lastBuildDate>Sat, 15 Oct 2022 11:07:29 +0530</lastBuildDate>
     <generator>Hugo - gohugo.io</generator>
     <docs>http://cyber.harvard.edu/rss/rss.html</docs>
     <atom:link href="https://vlsichallenge.github.io//atom.xml" rel="self" type="application/atom+xml"/>
     
     <item>
-      <title>My First Post</title>
+      <title>Day-1</title>
       <link>https://vlsichallenge.github.io/posts/my-first-post/</link>
-      <description>&lt;p&gt;This is a test post.&lt;/p&gt;
+      <description>&lt;p&gt;&amp;lsquo;&amp;lsquo;&amp;lsquo;verilog
+module multiplier();
+endmodule
+&amp;rsquo;&amp;rsquo;&amp;rsquo;&lt;/p&gt;
 </description>
       <author>trandcanh@gmail.com (Calvin Tran)</author>
       <guid>https://vlsichallenge.github.io/posts/my-first-post/</guid>
